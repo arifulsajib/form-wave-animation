@@ -9,5 +9,5 @@
 ### Links
 
 - Youtube: [Learn with sajib](https://www.youtube.com/channel/UCDA_vA_38scUAk1UIuDpJmw)
-- Live Site: [Split Landing Page](https://arifulsajib.github.io/form-wave-animation/)
+- Live Site: [Form wave animation](https://arifulsajib.github.io/form-wave-animation/)
 - Source Code: [Github](https://github.com/arifulsajib/form-wave-animation)
